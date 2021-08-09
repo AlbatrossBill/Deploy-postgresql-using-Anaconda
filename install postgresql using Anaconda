@@ -1,0 +1,5 @@
+When you finished install Anaconda. Opening Anaconda prompt with Administrator, type
+```
+conda install Anaconda postgresql
+```
+#Hello
