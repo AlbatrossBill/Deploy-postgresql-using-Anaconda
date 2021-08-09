@@ -20,7 +20,7 @@ If you close the Anaconda commond prompt accidental while the installation didn'
 ![image](https://user-images.githubusercontent.com/78173335/128714341-58b60780-666c-4601-8b79-fdb371a41776.png)
 
 ### Approach_1:
-Delete the file .condarc in C:/Users/<Admin> path
+Delete the .condarc file's content in C:/Users/<Admin> path
 ![image](https://user-images.githubusercontent.com/78173335/128714682-fe224d21-c333-43a8-b137-a43fc973807b.png)
   
 If Approach_1 didn't work ↓
@@ -34,5 +34,5 @@ If Approach_1 didn't work ↓
   *Please using your Anaconda installation path.
   
   ### Approach_3:
-  If the methond above all not working, and also your computer doesn't have many stuffs, of course you can restore your computer for fixing this issue, i can asure you if can be fix after restore:) (Yes I am joking! but may be I am not?)
+  If the method above not work, and also your computer doesn't have many stuffs, of course you can restore your computer for fixing this issue, i can asure you if can be fix after restore:) (Yes I am joking! but may be I am not?)
   
