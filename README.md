@@ -36,4 +36,3 @@ If Approach_1 didn't work ↓
   
   ### Approach_3:
   If the method above not work, and also your computer doesn't have many stuffs, of course you can restore your computer for fixing this issue, i can asure you if can be fix after restore:) (Yes I am joking! but may be I am not?)
-  
