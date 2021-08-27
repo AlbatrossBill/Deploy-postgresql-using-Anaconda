@@ -1,6 +1,6 @@
 # Deploy-postgresql-using-Anaconda
 # Windows 10 x64
-Install Anaconda postgresql, and using PostgreSQL to manage.
+Install Anaconda postgresql
 When using Anaconda postgresql might cause issues show up. Here are few of many approachs that can solve the problems.
 ## 1. Install Anaconda
 https://www.anaconda.com/distribution/#windows
